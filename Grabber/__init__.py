@@ -20,14 +20,14 @@ OWNER_ID = 2054990632
 sudo_users = ["6691393517", "6691393517"]
 GROUP_ID = -1002002081714
 TOKEN = "6942284208:AAFqGXTASjIkez834A9CJPBGvLiBlSaCPDw"
-mongo_url = "mongodb+srv://te3:te23@cluster0.ysbpgcp.mongodb.net/?retryWrites=true&w=majority"
+mongo_url = "mongodb+srv://Bikash:Bikash@bikash.yl2nhcy.mongodb.net/?retryWrites=true&w=majority"
 PHOTO_URL = ["https://graph.org/file/ecec9ec2082f9c02af8c5.jpg", "https://telegra.ph/file/72ea883532b722f405059.jpg"]
 SUPPORT_CHAT = "waifu_support"
 UPDATE_CHAT = "dragons_bots"
 BOT_USERNAME = "Guess_Yourr_Waifu_bot"
 CHARA_CHANNEL_ID = -1002002081714
-api_id = 6435225
-api_hash = "4e984ea35f854762dcde906dce426c2d"
+api_id = 27604779
+api_hash = "8a04200c9d52999ae7ebc26a462dbb48"
 
 
 application = Application.builder().token(TOKEN).build()
