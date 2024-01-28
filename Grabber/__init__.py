@@ -19,7 +19,7 @@ LOGGER = logging.getLogger(__name__)
 OWNER_ID = 2054990632
 sudo_users = ["6962772544", "2054990632"]
 GROUP_ID = -1002002081714
-TOKEN = "6942284208:AAFqGXTASjIkez834A9CJPBGvLiBlSaCPDw"
+TOKEN = "6942284208:AAFA9CJPBGvLiBlSaCPDw"
 mongo_url = "mongodb+srv://Bikash:Bikash@bikash.yl2nhcy.mongodb.net/?retryWrites=true&w=majority"
 PHOTO_URL = ["https://graph.org/file/ecec9ec2082f9c02af8c5.jpg", "https://telegra.ph/file/72ea883532b722f405059.jpg"]
 SUPPORT_CHAT = "waifu_support"
